@@ -11,11 +11,4 @@ def __str__(self) - String representation of the BaseModel class
 def save(self) - Updates the attribute updated_at with the current datetime
 def to_dict(self) - returns a dictionary containing all keys/values of the instance
 
-//Classes inherited from Base Model:
-
-amenity.py
-city.py
-place.py
-review.py
-state.py
-user.py
+//
